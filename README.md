@@ -1,3 +1,3 @@
 # Brion Gysin
 
-For projects related to Brion Gysin. Currently the dream machine website / html
+Brion Gysin's dream machine inspired web page. Try playing with / adjusting the time interval of the changeColor() function. 
