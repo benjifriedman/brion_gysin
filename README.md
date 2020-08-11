@@ -1,3 +1,3 @@
 # Brion Gysin
 
-For projects related to Brion Gysin. Currently just a dream machine html!
+For projects related to Brion Gysin. Currently the dream machine website / html
